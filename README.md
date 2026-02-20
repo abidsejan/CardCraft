@@ -3,6 +3,10 @@
 CardCraft is a premium profile card studio built with React, Vite, and Tailwind CSS.
 It helps users create polished personal brand cards with live preview, theme customization, smart layout control, and high-quality export for portfolio and social sharing.
 
+## Live Preview
+- Live preview at : https://card-craft-five.vercel.app
+
+
 ## Highlights
 
 - Real-time profile card preview
