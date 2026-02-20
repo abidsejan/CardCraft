@@ -3,9 +3,6 @@
 CardCraft is a premium profile card studio built with React, Vite, and Tailwind CSS.
 It helps users create polished personal brand cards with live preview, theme customization, smart layout control, and high-quality export for portfolio and social sharing.
 
-## Repo Description (GitHub "About")
-A premium React-based profile card generator with real-time preview, theme switching, drag-and-drop layout, custom DOB picker, and high-resolution social exports.
-
 ## Highlights
 
 - Real-time profile card preview
@@ -82,3 +79,15 @@ src/
 
 - Current behavior starts with a clean form state on each run.
 - If you plan to deploy publicly, consider adding route/code splitting to reduce main bundle size.
+
+# Author
+
+**Abid Hasan**
+
+GitHub: [https://github.com/abidsejan](https://github.com/abidsejan)
+
+
+
+# If you like this project
+
+Give it a star ⭐ on GitHub — it motivates further development.
